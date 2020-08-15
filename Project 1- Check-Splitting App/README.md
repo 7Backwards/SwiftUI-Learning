@@ -4,5 +4,7 @@ Resolution of hackingwithswift's [first project](https://www.hackingwithswift.co
 
 # App preview
 
-![alt text](https://github.com/7Backwards/SwiftUI-Learning/blob/dev/Project%201-%20Check-Splitting%20App/AppPreview.png)
+<p align="center">
+  <img src="https://github.com/7Backwards/SwiftUI-Learning/blob/dev/Project%201-%20Check-Splitting%20App/AppPreview.png">
+</p>
 
