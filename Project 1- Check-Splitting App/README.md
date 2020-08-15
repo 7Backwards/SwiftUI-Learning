@@ -1,5 +1,5 @@
 # Project 1- Check-Splitting App
-Resolution of hackingwithswift's [first project](https://www.hackingwithswift.com/books/ios-swiftui/wesplit-introduction).
+Resolution of hackingwithswift's swiftui course [first project](https://www.hackingwithswift.com/books/ios-swiftui/wesplit-introduction).
 
 
 # App preview
